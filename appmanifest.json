@@ -1,6 +1,6 @@
 ﻿{
-	"name": "New project",
-	"short_name": "New project",
+	"name": "DNK survival",
+	"short_name": "DNK survival",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
